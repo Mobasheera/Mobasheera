@@ -45,8 +45,3 @@ Built in a 24-hour hackathon: an AI gift-recommendation platform using RAG to ma
 ### ⚙️ Stack
 
 `Python` `Java` `JavaScript` `C` `C#` `SQL` `Django` `Power BI` `Pandas/NumPy` `LangChain` `Git & GitHub`
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobasheera&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobasheera&layout=compact&hide_border=true" height="165"/>
-</p>
