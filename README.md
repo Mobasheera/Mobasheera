@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/mobashshir-ahsan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mail.uni.moba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linktr.ee/mobashshir"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" /></a>
 </p>
 
 Computer Engineering student (AI/ML Honours) who likes reverse engineering hardware protocols, building developer tools, and shipping small utilities that fix actual friction — for myself, my university, or anyone who hits the same wall I did. Comfortable across Android, web, AI/RAG, and automation.
