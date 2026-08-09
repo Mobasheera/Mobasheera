@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mobashshir Ahsan 👋</h1>
-<h3 align="center">I build software that solves real problems — not just software that demonstrates I can code.</h3>
+<h3 align="center">I build software that solves real problems & not just software that demonstrates I can code.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mobashshir-ahsan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
